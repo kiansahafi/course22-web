@@ -49,7 +49,7 @@ You'll see that fast.ai's way of teaching is very different to what you might be
   - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
   - [Making Learning Whole](http://www.pz.harvard.edu/resources/making-learning-whole-how-seven-principles-of-teaching-can-transform-education) by David Perkins
 - Jupyter
-  - Presentations: [RISE](https://rise.readthedocs.io/en/stable/)
+  - Presentations: [RISE](https://rise.readthedocs.io/en/latest/)
   - Blogging: [fastpages](https://github.com/fastai/fastpages)
   - The notebooks used to create the [fastai library](https://github.com/fastai/fastai/tree/master/nbs)
   - [nbdev](https://nbdev.fast.ai/) - the system we built to create Python libraries using Jupyter
